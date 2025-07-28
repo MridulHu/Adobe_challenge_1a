@@ -64,6 +64,6 @@ This schema defines the structure of the output JSON, including:
 
 Mridul Das 
 
-Areef Das
+Areef Khan
 
-Sajjid Das
+Sajjid Ali
